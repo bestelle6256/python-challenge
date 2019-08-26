@@ -1,0 +1,5 @@
+https://github.com/bestelle6256/python-challenge.git
+
+C:/Users/xiex8/Desktop/UCB-BMT-DATA-PT-08-2019-U-C/03-Python/HW/Instructions/PyBank/Resources/bybank.py
+/c/Users/xiex8/desktop/UCB-BMT-DATA-PT-08-2019-U-C/03-Python/HW/Instructions/PyBank/Resources/bybank.py
+/c/Users/xiex8/desktop/UCB-BMT-DATA-PT-08-2019-U-C/python-challenge/main.py
